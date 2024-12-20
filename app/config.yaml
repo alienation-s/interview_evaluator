@@ -1,0 +1,6 @@
+sparkai:
+  url: "wss://spark-api.xf-yun.com/v3.5/chat"
+  app_id: "5eeadba0"
+  api_secret: "65d23a32149fd7f2c0a7642e9222bf4b"
+  api_key: "17749a81e5d6c5946e7a39551314feba"
+  domain: "generalv3.5"
